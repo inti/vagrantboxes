@@ -7,3 +7,5 @@ to see and use the code if it is useful.
 
 Feel free to contact me for details or if you want to contribute.
 
+
+page can be seen here http://inti.github.io/vagrantboxes/ and code https://github.com/inti/vagrantboxes/
