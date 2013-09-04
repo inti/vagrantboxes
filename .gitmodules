@@ -1,3 +1,3 @@
-[submodule "apt"]
-	path = apt
+[submodule "python_focused/cookbooks/apt"]
+	path = python_focused/cookbooks/apt
 	url = https://github.com/opscode-cookbooks/apt.git
