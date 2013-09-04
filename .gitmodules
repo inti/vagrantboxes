@@ -10,3 +10,9 @@
 [submodule "python_focused/cookbooks/python"]
 	path = python_focused/cookbooks/python
 	url = https://github.com/opscode-cookbooks/python.git
+[submodule "python_focused/cookbooks/build-essential"]
+	path = python_focused/cookbooks/build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "python_focused/cookbooks/chef_solo_numba"]
+	path = python_focused/cookbooks/chef_solo_numba
+	url = git@github.com:inti/chef_solo_numba.git
