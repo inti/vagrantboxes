@@ -1,3 +1,12 @@
 [submodule "python_focused/cookbooks/apt"]
 	path = python_focused/cookbooks/apt
 	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "python_focused/cookbooks/python-data"]
+	path = python_focused/cookbooks/python-data
+	url = git@github.com:inti/python-data.git
+[submodule "python_focused/cookbooks/git"]
+	path = python_focused/cookbooks/git
+	url = https://github.com/opscode-cookbooks/git.git
+[submodule "python_focused/cookbooks/python"]
+	path = python_focused/cookbooks/python
+	url = https://github.com/opscode-cookbooks/python.git
