@@ -16,3 +16,6 @@
 [submodule "python_focused/cookbooks/chef_solo_numba"]
 	path = python_focused/cookbooks/chef_solo_numba
 	url = git@github.com:inti/chef_solo_numba.git
+[submodule "python_focused/cookbooks/pymc3"]
+	path = python_focused/cookbooks/pymc3
+	url = git@github.com:inti/chef_solo_pymc3.git
